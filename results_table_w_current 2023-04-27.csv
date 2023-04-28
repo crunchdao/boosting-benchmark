@@ -1,0 +1,6 @@
+model,target,valcor
+xgboost,target_w,0.022179679636004482
+xgboost + lightgbm,target_w,0.010305829299345756
+evotrees,target_w,-0.004603471947800688
+evotrees + lightgbm,target_w,-0.005176114106818446
+lightgbm,target_w,-0.0056566131124195194
