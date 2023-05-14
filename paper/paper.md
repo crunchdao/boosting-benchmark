@@ -1,7 +1,7 @@
 ---
-title: "Comparison of Boosters on financial data"
+title: "Benchmarking Gradient Boosting Algorithms on Financial Data"
 subtitle: "by CrunchDAO"
-author: [Matteo Manzi, sweet-richard]
+author: [sweet-richard, Matteo Manzi]
 date: "2023/03/08"
 lang: "en"
 colorlinks: true
@@ -12,7 +12,7 @@ titlepage-rule-height: 0
 titlepage-background: "./figures/cover.pdf"
 header-left: "\\hspace{1cm}"
 header-right: "Page \\thepage"
-footer-left: "Comparison of Boosters on financial data"
+footer-left: "Benchmarking Gradient Boosting Algorithms on Financial Data"
 footer-right: "CrunchDAO"
 
 abstract: "TODO"
