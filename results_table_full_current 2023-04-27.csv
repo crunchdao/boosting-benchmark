@@ -1,0 +1,21 @@
+model,target,valcor
+lightgbm,target_w,-0.0056566131124195194
+lightgbm,target_r,0.23162971485877754
+lightgbm,target_g,0.39771779178688726
+lightgbm,target_b,0.4694343084204574
+xgboost,target_w,0.022179679636004482
+xgboost,target_r,0.522807445163554
+xgboost,target_g,0.7394104069777743
+xgboost,target_b,0.8064512091362468
+evotrees,target_w,-0.004603471947800688
+evotrees,target_r,0.24016552279942724
+evotrees,target_g,0.4031878423088634
+evotrees,target_b,0.47834895353667783
+xgboost + lightgbm,target_w,0.010305829299345756
+evotrees + lightgbm,target_w,-0.005176114106818446
+xgboost + lightgbm,target_r,0.4322492277729336
+evotrees + lightgbm,target_r,0.2376053203275617
+xgboost + lightgbm,target_g,0.6394806422092661
+evotrees + lightgbm,target_g,0.40271834940242274
+xgboost + lightgbm,target_b,0.7108223302677023
+evotrees + lightgbm,target_b,0.47626309624565033
